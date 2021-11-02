@@ -1,4 +1,4 @@
-# @blu256
+# blu.256
 * A [Trinity Desktop Environment](https://www.trinitydesktop.org) user and developer
 * A [Slackware Linux](https://www.slackware.com) user
 
