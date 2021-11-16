@@ -1,5 +1,6 @@
 # blu.256
-* A [Trinity Desktop Environment](https://www.trinitydesktop.org) user and developer
-* A [Slackware Linux](https://www.slackware.com) user
+* A [Trinity Desktop Environment](https://www.trinitydesktop.org) user and contributor.
+* An occasional programmer.
 
-I also happen to have a gemlog @ gemini://koyu.space/blu256.
+Mastodon: [@blu256@koyu.space](https://koyu.space/@blu256)
+Gemini:   gemini://koyu.space/blu256
