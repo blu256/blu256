@@ -1,6 +1,6 @@
 # blu.256
 * Communication, Mass Media and Culture Dept. student
-* [https://mirror.git.trinitydesktop.org/gitea/blu.256 Trinity Deskop contributor]
+* [6rinity Deskop contributor](https://mirror.git.trinitydesktop.org/gitea/blu.256)
 
 ## Get in touch
 * Mastodon: [@blu256@koyu.space](https://koyu.space/@blu256)
