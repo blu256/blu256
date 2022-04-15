@@ -4,4 +4,5 @@
 
 ## Trinity Desktop
 * [modernize_kde3_iconset](https://github.com/blu256/modernize_kde3_iconset), a KDE3->XDG icon theme conversion tool
-* [tde-easy-projector](https://github.com/blu256/tde-easy-projector), an easy projector/external screen Add
+* [tde-easy-projector](https://github.com/blu256/tde-easy-projector), an easy projector/external screen utility
+* [tde-slackbuild-gen](https://github.com/blu256/tde-slackbuild-gen), a SlackBuild generator for TDE source code
