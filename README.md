@@ -1,5 +1,4 @@
 # blu.256
-* Communication, Mass Media and Culture Dept. student
 * [Trinity Desktop contributor](https://mirror.git.trinitydesktop.org/gitea/blu.256)
 
 ## Trinity Desktop
